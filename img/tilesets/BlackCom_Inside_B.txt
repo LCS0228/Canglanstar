@@ -1,0 +1,256 @@
+﻿Transparent|透明
+Gray Office Chair A|灰色のオフィスチェアA
+Gray Office Chair B|灰色のオフィスチェアB
+Black Office Chair A|黒色のオフィスチェアA
+Black Office Chair B|黒色のオフィスチェアB
+Leather Chair A|レザーチェアA
+Leather Chair B|レザーチェアB
+Leather Sofa A|レザーソファーA
+Green Stool|緑色の丸椅子
+Gray Office Chair C|灰色のオフィスチェアA
+Gray Office Chair D|灰色のオフィスチェアB
+Black Office Chair C|黒色のオフィスチェアA
+Black Office Chair D|黒色のオフィスチェアB
+Leather Chair C|レザーチェアC
+Leather Chair D|レザーチェアD
+Leather Sofa A|レザーソファーA
+White Stool|白色の丸椅子
+Worn out Gray Office Chair A|灰色のボロいオフィスチェアA
+Worn out Gray Office Chair B|灰色のボロいオフィスチェアB
+Worn out Black Office Chair A|黒色のボロいオフィスチェアA
+Worn out Black Office Chair B|黒色のボロいオフィスチェアB
+Pipe Chair A|パイプ椅子A
+Pipe Chair B|パイプ椅子B
+Leather Sofa B|レザーソファーB
+Black Stool|黒色の丸椅子
+Worn out Gray Office Chair C|灰色のボロいオフィスチェアA
+Worn out Gray Office Chair D|灰色のボロいオフィスチェアB
+Worn out Black Office Chair C|黒色のボロいオフィスチェアA
+Worn out Black Office Chair D|黒色のボロいオフィスチェアB
+Pipe Chair C|パイプ椅子C
+Pipe Chair D|パイプ椅子D
+Leather Sofa B|レザーソファーB
+Steel DeskA (Front)|スイールデスクA (前面)
+Steel DeskA (Front)|スイールデスクA (前面)
+Steel DeskB (Side)|スイールデスクB (側面)
+Wood DeskA (Front)|ウッドデスクA (前面)
+Wood DeskA (Front)|ウッドデスクA (前面)
+Wood DeskB (Side)|ウッドデスクB (側面)
+Glass Table|ガラステーブル
+Stone Table|石板のテーブル
+Steel DeskC (Back)|スイールデスクC (背面)
+Steel DeskC (Back)|スイールデスクC (背面)
+Steel DeskB (Side)|スイールデスクB (側面)
+Wood DeskA (Front)|ウッドデスクA (背面)
+Wood DeskA (Front)|ウッドデスクA (背面)
+Wood DeskB (Side)|ウッドデスクB (側面)
+Glass Table|ガラステーブル
+Stone Table|石板のテーブル
+Steel Locker A (Back or Side)|スチールロッカーA (背面または側面)
+Steel Locker B (Front)|スチールロッカーB (正面)
+Steel Locker C (Front)|スチールロッカーC (正面)
+Steel Locker D (Front)|スチールロッカーD (正面)
+Steel Locker E (Front)|スチールロッカーE (正面)
+Steel Locker F (Front)|スチールロッカーF (正面)
+Steel Locker G (Front)|スチールロッカーG (正面)
+Steel Locker H (Front)|スチールロッカーH (正面)
+Steel Locker A (Back or Side)|スチールロッカーA (背面または側面)
+Steel Locker B (Front)|スチールロッカーB (正面)
+Steel Locker C (Front)|スチールロッカーC (正面)
+Steel Locker D (Front)|スチールロッカーD (正面)
+Steel Locker E (Front)|スチールロッカーE (正面)
+Steel Locker F (Front)|スチールロッカーF (正面)
+Steel Locker G (Front)|スチールロッカーG (正面)
+Steel Locker H (Front)|スチールロッカーH (正面)
+Steel Locker I (Front)|スチールロッカーI (正面)
+Steel Locker J (Front)|スチールロッカーJ (正面)
+Steel Locker K (Front)|スチールロッカーK (正面)
+Steel Locker L (Front)|スチールロッカーL (正面)
+Steel Locker M (Front)|スチールロッカーM (正面)
+Steel Locker N (Front)|スチールロッカーN (正面)
+Steel Locker O (Front)|スチールロッカーO (正面)
+Steel Locker P (Front)|スチールロッカーP (正面)
+Steel Locker I (Front)|スチールロッカーI (正面)
+Steel Locker J (Front)|スチールロッカーJ (正面)
+Steel Locker K (Front)|スチールロッカーK (正面)
+Steel Locker L (Front)|スチールロッカーL (正面)
+Steel Locker M (Front)|スチールロッカーM (正面)
+Steel Locker N (Front)|スチールロッカーN (正面)
+Steel Locker O (Front)|スチールロッカーO (正面)
+Steel Locker P (Front)|スチールロッカーP (正面)
+PC Set A (Programing)|PCセット A (プログラム中)
+PC Set B (Power down)|PCセット B (正面・電源なし)
+PC Set C (Some Sticky)|PCセット C (正面・付箋あり)
+PC Set D (Image Edit Software)|PCセット D (画像編集ソフト)
+PC Set E (Left Side)|PCセット E (側面左)
+PC Set F (Left Side)|PCセット F (側面右)
+Note PC (Front)|ノートPC (正面)
+Note PC (Left)|ノートPC (左側面)
+Input Device (Normal)|入力装置 (一般的)
+Input Device (with Track Ball Mouse)|入力装置 (トラックボールマウス付)
+Input Device (with Supplement Drinks)|入力装置 (散乱する栄養ドリンク付)
+Input Device (Pen tablet)|入力装置 (ペンタブレット)
+PC Set E (Left Side)|PCセット E (側面左)
+PC Set F (Left Side)|PCセット F (側面右)
+Note PC (Back)|ノートPC (背面)
+Note PC (Right)|ノートPC (右側面)
+PC Monitor (Back)|PCモニター (背面)
+PC (Front)|PC (正面)
+PC (Front/Unscrew)|PC (正面/ケースを外した状態)
+Messy Documents and Folders|散らかった書類やファイル
+WhiteBoard (LeftTop)|ホワイトボード (左上)
+WhiteBoard (MiddleTop)|ホワイトボード (中央上)
+WhiteBoard (RightTop)|ホワイトボード (右上)
+WhiteBoard (SideTop)|ホワイトボード (側面上)
+PC Monitor (Back)|PCモニター (背面)
+PC (Side)|PC (側面)
+PC (Side/Unscrew)|PC (側面/ケースを外した状態)
+Cirkit Checker|電子回路チェッカー
+WhiteBoard (LeftBottom)|ホワイトボード (左下)
+WhiteBoard (MiddleBottom)|ホワイトボード (中央下)
+WhiteBoard (RightBottom)|ホワイトボード (右下)
+WhiteBoard (SideBottom)|ホワイトボード (側面下)
+Documents (Front/Extra)|書類 (正面/大量)
+Documents (Side/Extra)|書類 (側面/大量)
+Documents (Front/Normal)|書類 (正面/通常)
+Documents (Side/Normal)|書類 (側面/通常)
+Documents (Front/Few)|書類 (正面/少量)
+Documents (Side/Few)|書類 (側面/少量)
+Documents (Front/One)|書類 (正面/一枚)
+Documents (Side/One)|書類 (側面/一枚)
+Documents (Extra1)|書類 (大量1)
+Documents (Extra2)|書類 (大量2)
+Documents (Extra/with Supplement Drinks)|書類 (大量/散乱する栄養ドリンク付)
+Documents (Collapse)|書類 (積み崩れ)
+Documents File (Front)|書類ケース (正面)
+Documents File (Side)|書類ケース (側面)
+Desk Calendar|卓上カレンダー
+Supplement Drinks|散乱する栄養ドリンク
+Partition Wall (Left End)|仕切り壁 (左端)
+Partition Wall|仕切り壁
+Partition Wall (with Paper1)|仕切り壁 (掲示物あり1)
+Partition Wall (with Paper2)|仕切り壁 (掲示物あり2)
+Partition Wall (Right End)|仕切り壁 (右端)
+Partition Wall (Side)|仕切り壁 (側面)
+Partition Wall (Left Corner)|仕切り壁 (左角)
+Partition Wall (Right Corner)|仕切り壁 (右角)
+Partition Wall (Left End)|仕切り壁 (左端)
+Partition Wall|仕切り壁
+Partition Wall (with Paper1)|仕切り壁 (掲示物あり1)
+Partition Wall (with Paper2)|仕切り壁 (掲示物あり2)
+Partition Wall (Right End)|仕切り壁 (右端)
+Partition Wall (Side)|仕切り壁 (側面)
+Partition Wall (Left Corner)|仕切り壁 (左角)
+Partition Wall (Right Corner)|仕切り壁 (右角)
+Aphorism "Business Rush"/JP|金言「商売繁盛」
+Aphorism "Business Rush"/JP|金言「商売繁盛」
+Aphorism "Business Rush"/JP|金言「商売繁盛」
+Slogan "Watch out"/JP|標語「日ごろから気をつけよう」
+Slogan "Watch out"/JP|標語「日ごろから気をつけよう」
+Slogan "Watch out"/JP|標語「日ごろから気をつけよう」
+Contractors License Board|建築許可票
+Precautionary Statement|注意書き
+Aphorism "Customer First Policy"/JP|金言「お客様第一」
+Aphorism "Customer First Policy"/JP|金言「お客様第一」
+Aphorism "Customer First Policy"/JP|金言「お客様第一」
+Monthly Action "Strengthening Sales"|販売強化月間の掲示
+Monthly Action "Strengthening Sales"|販売強化月間の掲示
+Monthly Action "Strengthening Sales"|販売強化月間の掲示
+Precautionary Statement "Don't Speak"/JP|注意書き「私語厳禁」
+Documents on the Wall1|壁掲示用の書類1
+Aphorism "Dead or Work"/JP|金言「命を賭して働くべし」
+Aphorism "Dead or Work"/JP|金言「命を賭して働くべし」
+Aphorism "Dead or Work"/JP|金言「命を賭して働くべし」
+Responsible Persons Board|責任者掲示
+Precautionary Statement "Watch Your Head"|注意書き「頭上注意」
+Precautionary Statement "Watch Your Head"|注意書き「頭上注意」
+Precautionary Statement "Save the Expensive and Tax"|注意書き「倹約・節税」
+Documents on the Wall3|壁掲示用の書類2
+Aphorism "Reach 1 Hundred Million Yen"/JP|金言「目指せ1億円」
+Aphorism "Reach 1 Hundred Million Yen"/JP|金言「目指せ1億円」
+Aphorism "Reach 1 Hundred Million Yen"/JP|金言「目指せ1億円」
+Today's Word|今日のひとこと
+Slogan "Economizing First"/JP|標語「倹約第一」
+Slogan "Economizing First"/JP|標語「倹約第一」
+Photo of the Founder|創業者の写真
+Unpeelable Papers|壁の書類を剥がした痕
+Office Window|職場の窓
+Office Window (Night)|職場の窓 (夜)
+Office Window (Brind)|職場の窓 (ブラインド)
+Office Ventilating Window|職場の換気窓
+Office Ventilating Window (Night)|職場の換気窓 (夜)
+Office Ventilating Window (Brind)|職場の換気窓 (ブラインド)
+President's Word|社長の金言
+Sign of Powerup Renewal/JP|パワーアップリニューアルの告知
+Office Window|職場の窓
+Office Window (Night)|職場の窓 (夜)
+Office Window (Brind)|職場の窓 (ブラインド)
+Office Ventilating Fan (with Cover)|職場の換気扇 (カバーあり)
+Office Ventilating Fan (without Cover)|職場の換気扇 (カバーなし)
+Office Ventilating Port|職場の換気口
+Authentication Document|認証取得についての掲示
+Simple Precautionary Statement|シンプルな注意書き
+Multifunction Machine|複合機
+Server Lack (Side or Back)|サーバラック (側面または背面)
+Server Lack (Front/Empty)|サーバラック (正面/空)
+Server Lack (Front/Alert)|サーバラック (正面/異常)
+Server Lack (Front/Nromal)|サーバラック (正面/正常)
+Server Lack (Front/Opened)|サーバラック (正面/開放)
+Server Lack (Front/with Monitor)|サーバラック (正面/モニター)
+Server Lack (Front/Trouble)|サーバラック (正面/故障)
+Multifunction Machine|複合機
+Server Lack (Side or Back)|サーバラック (側面または背面)
+Server Lack (Front/Empty)|サーバラック (正面/空)
+Server Lack (Front/Alert)|サーバラック (正面/異常)
+Server Lack (Front/Nromal)|サーバラック (正面/正常)
+Server Lack (Front/Opened)|サーバラック (正面/開放)
+Server Lack (Front/with Monitor)|サーバラック (正面/モニター)
+Server Lack (Front/Trouble)|サーバラック (正面/故障)
+Stainless Wall Lack|ステンレス壁掛棚
+Stainless Desk|ステンレスミニテーブル
+Dirty Dishes|よごれた皿類
+Stainless Wall Storage|ステンレス壁掛収納
+Lot of Stock1|大量の在庫1
+Lot of Stock2|大量の在庫2
+Lot of Stock3|大量の在庫3
+Lot of Stock4|大量の在庫4
+Stainless Counter|ステンレスカウンター
+Cooking Tool1|調理道具1
+Cooking Tool2|調理道具2
+Work Shift Table|シフト表
+Lot of Stock1|大量の在庫1
+Lot of Stock2|大量の在庫2
+Lot of Stock3|大量の在庫3
+Lot of Stock4|大量の在庫4
+Stainless Counter (Sink)|ステンレスカウンター (シンク)
+Stainless Counter (Dish in Sink)|ステンレスカウンター (食器のあるシンク)
+Stainless Counter (Chopping Board)|ステンレスカウンター (まな板)
+Stainless Counter (Oven)|ステンレスカウンター (オーブン)
+Stock1|在庫1
+Stock2|在庫2
+Stock3|在庫3
+Stock4|在庫4
+Nap Bed (Front)|仮眠用ベッド (正面)
+Nap Bed (RightSide)|仮眠用ベッド (右側面)
+Nap Bed (RightSide)|仮眠用ベッド (右側面)
+Sleeping Bag (Front)|寝袋 (正面)
+Sleeping Bag (RightSide)|寝袋 (右側面)
+Sleeping Bag (RightSide)|寝袋 (右側面)
+Trash Bags|複数のゴミ袋
+Messy Books|散乱した書籍
+Nap Bed (Front)|仮眠用ベッド (正面)
+Nap Bed (LeftSide)|仮眠用ベッド (左側面)
+Nap Bed (LeftSide)|仮眠用ベッド (左側面)
+Sleeping Bag (Front)|寝袋 (正面)
+Sleeping Bag (LeftSide)|寝袋 (左側面)
+Sleeping Bag (LeftSide)|寝袋 (左側面)
+Some Trashs|複数のゴミ
+Some Bottoles|複数の瓶類
+Security Console|セキュリティ制御装置
+Security Machine|セキュリティ関連機器
+Time Card Machine (Front)|タイムカード刻印機 (正面)
+Time Card Machine (Side)|タイムカード刻印機 (側面)
+Cable|ケーブル
+Retractable extension chord|電工ドラム
+Empty Instant Noodles Container|空のインスタント麵の容器
+Mysteric Stain|謎のシミ

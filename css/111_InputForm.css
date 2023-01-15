@@ -1,0 +1,58 @@
+﻿/* ここからは、テキストフォームのデザインに関する設定です。
+   (Translation: The text form design setting follows.) */
+/* 重要：font-size は px で、width と height は em で指定してください。
+   (Important note: font-size must be set by px,
+   width and height must be set by em.) */
+#_111_input{
+    position: absolute; /* */
+	z-index:999; /* */
+	font-size: 24px; /* ←この数字は文字の大きさを表しています */
+	width : 15em; /* ←この数字はウインドウの幅を表しています */
+	height : 1.5em; /* ←この数字はウインドウの高さを表しています */
+
+	font-weight:bold; 
+    color: #f8f8f8;
+    text-shadow: black 1px 1px 0px, black -1px 1px 0px,
+                 black 1px -1px 0px, black -1px -1px 0px;
+    font-family: GameFont;
+
+    border:solid 3px #f8f8f8;
+    border-radius:5px;
+    background: rgba(0,0,0, 0.5);
+}
+/* ここからは、決定/キャンセルボタンのデザインに関する設定です。
+   (Translation: The OK/Cancel buttons design setting follows.) */
+#_111_submit{
+	position: absolute; /* */
+	z-index:999; /* */
+	font-size: 24px; /* ←この数字は文字の大きさを表しています */
+
+	font-weight:bold; 
+    color: #f8f8f8;
+    text-shadow: black 1px 1px 0px, black -1px 1px 0px,
+                 black 1px -1px 0px, black -1px -1px 0px;
+    font-family: GameFont;
+
+    border:solid 3px #f8f8f8;
+    border-radius:5px;
+    background: rgba(0,0,0, 0.5);
+}
+/* ここからは、残り文字数表示のデザインに関する設定です。
+   (Translation: The rest character display window design setting follows.) */
+#_Sasuke_RestStrLength{
+    position: absolute;
+	z-index:999;
+	font-size: 24px;
+	width : 2.5em;
+	height : 1.5em;
+
+	font-weight:bold; 
+    color: #ffffff;
+    text-shadow: black 1px 1px 0px, black -1px 1px 0px,
+                 black 1px -1px 0px, black -1px -1px 0px;
+    font-family: GameFont;
+
+    border:solid 3px rgba(0,0,0,0);
+    border-radius:5px;
+    background: rgba(0,0,0, 0.5);
+}
